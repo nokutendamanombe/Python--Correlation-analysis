@@ -1,4 +1,5 @@
 **Overview**
+
 The primary objective of this project was to test the hypothesis:
 
 1. Budget is positively correlated with gross revenue.
@@ -8,6 +9,7 @@ The primary objective of this project was to test the hypothesis:
 Using a dataset of movie performance, the analysis reveals insights through data cleaning, transformation, and visualization techniques.
 
 **Features**
+
 Data Cleaning:
 
 Removed null values and duplicate entries.
