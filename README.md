@@ -1,14 +1,18 @@
-**Overview**
+Movie Performance Analysis Project
+
+This repository contains a Python-based data analysis project exploring factors influencing the gross revenue of movies. The analysis focuses on uncovering trends and relationships between key variables such as budget, production company, and other movie attributes.
+
+Overview
 
 The primary objective of this project was to test the hypothesis:
 
-1. Budget is positively correlated with gross revenue.
+Budget is positively correlated with gross revenue.
 
-2. Production company plays a significant role in determining movie success.
+Production company plays a significant role in determining movie success.
 
 Using a dataset of movie performance, the analysis reveals insights through data cleaning, transformation, and visualization techniques.
 
-**Features**
+Features
 
 Data Cleaning:
 
@@ -24,7 +28,7 @@ Calculated correlation coefficients to identify key factors influencing gross re
 
 Focused on budget and production company alongside other attributes such as runtime, rating, and genre.
 
-**Data Visualization:**
+Data Visualization:
 
 Bar plots showcasing feature correlations with gross revenue.
 
@@ -32,7 +36,7 @@ Scatter plots with regression lines to display relationships (e.g., budget vs. g
 
 Heatmaps for correlation matrix visualization.
 
-**Key Insights**
+Key Insights
 
 Budget: Strong positive correlation (ρ = 0.74) with gross revenue.
 
@@ -40,7 +44,8 @@ Production Company: Moderate positive correlation (ρ = 0.15), indicating some i
 
 Other features, such as votes and runtime, also showed significant but smaller correlations.
 
-**Tools & Libraries**
+Tools & Libraries
+
 Python: Core programming language for the analysis.
 
 Pandas: Data cleaning and manipulation.
